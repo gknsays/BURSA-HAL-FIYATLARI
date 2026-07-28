@@ -2,26 +2,40 @@ name: Günlük Hal Fiyat Kontrolü
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # 🟢 Kesin çözüm: Çift tırnak içinde her saat başı (0. dakikada) tetikleme kuralı
+    - cron: "0 * * * *"
+  workflow_dispatch: # Manuel çalıştırma butonunu aktif tutar
 
 permissions:
-  contents: write
+  contents: write # Botun veritabanını / JSON dosyasını güncelleyip push edebilmesi için zorunlu
 
 jobs:
   calistir:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Kodu depodan çek
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 curl_cffi
+
       - name: Botu çalıştır
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python hal_fiyat_botu.py
-      - name: Güncel veriyi kaydet
+
+      - name: Güncel veriyi kaydet (Git Push)
         run: |
-          git config user.name "hal-fiyat-botu"
-          git config user.email "bot@example.com"
-          git add onceki_fiyatlar.json
+          git config --global user.name "hal-fiyat-botu"
+          git config --global user.email "bot@example.com"
+          git add onceki_fiyatlar.json || echo "Dosya bulunamadı veya değişmedi"
           git commit -m "günlük veri güncellendi" || echo "değişiklik yok"
           git push
