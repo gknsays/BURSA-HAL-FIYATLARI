@@ -1,0 +1,27 @@
+name: Günlük Hal Fiyat Kontrolü
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # her gün TSİ 07:00 civarı (UTC 04:00)
+  workflow_dispatch:       # istersen elle de tetikleyebilirsin
+
+permissions:
+  contents: write
+
+jobs:
+  calistir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Botu çalıştır
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python hal_fiyat_botu.py
+      - name: Güncel veriyi kaydet
+        run: |
+          git config user.name "hal-fiyat-botu"
+          git config user.email "bot@example.com"
+          git add onceki_fiyatlar.json
+          git commit -m "günlük veri güncellendi" || echo "değişiklik yok"
+          git push
