@@ -2,7 +2,7 @@ name: Günlük Hal Fiyat Kontrolü
 
 on:
   schedule:
-- cron: '0 * * * *'  # her saat başı 
+    - cron: '0 * * * *'  # her saat başı
   workflow_dispatch:       # istersen elle de tetikleyebilirsin
 
 permissions:
