@@ -1,22 +1,62 @@
 {
+  "Portakal Valencia": {
+    "min": 30.0,
+    "max": 50.0,
+    "birim": "kg"
+  },
+  "Mandalina": {
+    "min": 50.0,
+    "max": 50.0,
+    "birim": "Kg."
+  },
+  "Çağla": {
+    "min": 30.0,
+    "max": 30.0,
+    "birim": "Kg."
+  },
+  "Üzüm": {
+    "min": 20.0,
+    "max": 100.0,
+    "birim": "kg"
+  },
+  "Üzüm (Siyah)": {
+    "min": 10.0,
+    "max": 100.0,
+    "birim": "Kg."
+  },
+  "Hünnap": {
+    "min": 75.0,
+    "max": 75.0,
+    "birim": "kg"
+  },
+  "Nektarin": {
+    "min": 7.0,
+    "max": 120.0,
+    "birim": "(kg)"
+  },
+  "Hurma Trabzon": {
+    "min": 35.0,
+    "max": 35.0,
+    "birim": "Kg."
+  },
+  "Ayva": {
+    "min": 180.0,
+    "max": 180.0,
+    "birim": "Kg."
+  },
+  "İncir (Siyah)": {
+    "min": 150.0,
+    "max": 190.0,
+    "birim": "Kg"
+  },
   "Limon": {
     "min": 135.0,
     "max": 2430.0,
     "birim": "Sandık"
   },
   "Portakal Sıkmalık": {
-    "min": 15.0,
-    "max": 35.0,
-    "birim": "Kg."
-  },
-  "Üzüm Red globe": {
-    "min": 20.0,
-    "max": 140.0,
-    "birim": "kg"
-  },
-  "Ayva": {
-    "min": 180.0,
-    "max": 180.0,
+    "min": 25.0,
+    "max": 40.0,
     "birim": "Kg."
   },
   "Kestane": {
@@ -24,34 +64,29 @@
     "max": 30.0,
     "birim": "kg"
   },
-  "Şeftali": {
-    "min": 5.0,
-    "max": 80.0,
-    "birim": "(kg)"
-  },
   "Erik": {
     "min": 10.0,
     "max": 130.0,
     "birim": "Kg."
   },
-  "Elma (Granny Smith)": {
-    "min": 50.0,
+  "Armut": {
+    "min": 25.0,
     "max": 90.0,
+    "birim": "Kg."
+  },
+  "Elma (Granny Smith)": {
+    "min": 25.0,
+    "max": 100.0,
     "birim": "Kg."
   },
   "Kiraz": {
     "min": 20.0,
-    "max": 130.0,
+    "max": 200.0,
     "birim": "Kg."
   },
   "Vişne": {
-    "min": 8.0,
+    "min": 15.0,
     "max": 100.0,
-    "birim": "Kg."
-  },
-  "Armut": {
-    "min": 10.0,
-    "max": 90.0,
     "birim": "Kg."
   },
   "Dut": {
@@ -59,28 +94,23 @@
     "max": 86.0,
     "birim": "Kg."
   },
-  "Kara Dut": {
-    "min": 80.0,
-    "max": 100.0,
-    "birim": "Kg."
-  },
   "Elma (Amasya)": {
     "min": 20.0,
     "max": 90.0,
     "birim": "Kg."
-  },
-  "Bluberry": {
-    "min": 50.0,
-    "max": 480.0,
-    "birim": "kğ"
   },
   "Kavun": {
     "min": 10.0,
     "max": 60.0,
     "birim": "kg"
   },
+  "Portakal Washington": {
+    "min": 40.0,
+    "max": 40.0,
+    "birim": "kg"
+  },
   "Çilek": {
-    "min": 15.0,
+    "min": 50.0,
     "max": 130.0,
     "birim": "Kg."
   },
@@ -90,14 +120,19 @@
     "birim": "Kg."
   },
   "Erik Anjelika": {
-    "min": 30.0,
+    "min": 35.0,
     "max": 90.0,
     "birim": "kg"
   },
   "İncir (Beyaz)": {
     "min": 150.0,
-    "max": 150.0,
+    "max": 160.0,
     "birim": "Kg."
+  },
+  "Üzüm Red globe": {
+    "min": 20.0,
+    "max": 140.0,
+    "birim": "kg"
   },
   "Erik (Malta)": {
     "min": 25.0,
@@ -109,45 +144,30 @@
     "max": 150.0,
     "birim": "Kg."
   },
-  "Portakal Valencia": {
-    "min": 20.0,
-    "max": 50.0,
-    "birim": "kg"
-  },
   "Böğürtlen": {
     "min": 100.0,
     "max": 300.0,
     "birim": "Kg."
   },
   "Kayısı Şekerpare": {
-    "min": 8.0,
+    "min": 4.0,
     "max": 100.0,
     "birim": "kg"
   },
-  "Nektarin": {
-    "min": 10.0,
-    "max": 110.0,
+  "Şeftali": {
+    "min": 5.0,
+    "max": 80.0,
     "birim": "(kg)"
   },
   "Greyfurt": {
-    "min": 45.0,
-    "max": 45.0,
-    "birim": "Kg."
-  },
-  "Üzüm": {
-    "min": 12.0,
-    "max": 90.0,
-    "birim": "kg"
-  },
-  "Elma (Golden )": {
     "min": 40.0,
     "max": 40.0,
     "birim": "Kg."
   },
-  "İncir (Siyah)": {
-    "min": 50.0,
-    "max": 230.0,
-    "birim": "Kg"
+  "Elma (Golden )": {
+    "min": 20.0,
+    "max": 51.0,
+    "birim": "Kg."
   },
   "Kivi": {
     "min": 65.0,
@@ -155,8 +175,13 @@
     "birim": "kg"
   },
   "Üzüm çekirdeksiz": {
-    "min": 45.0,
-    "max": 80.0,
+    "min": 30.0,
+    "max": 120.0,
+    "birim": "Kg."
+  },
+  "Kara Dut": {
+    "min": 80.0,
+    "max": 100.0,
     "birim": "Kg."
   },
   "Mandalina Satsuma": {
@@ -165,14 +190,24 @@
     "birim": "kg"
   },
   "Elma": {
-    "min": 10.0,
-    "max": 100.0,
+    "min": 12.0,
+    "max": 70.0,
+    "birim": "Kg."
+  },
+  "Ahududu": {
+    "min": 100.0,
+    "max": 400.0,
     "birim": "Kg."
   },
   "Elma (Starking)": {
     "min": 50.0,
-    "max": 120.0,
+    "max": 60.0,
     "birim": "Kg."
+  },
+  "Bluberry": {
+    "min": 120.0,
+    "max": 500.0,
+    "birim": "kğ"
   },
   "Kızılcık": {
     "min": 20.0,
@@ -181,12 +216,7 @@
   },
   "Muz (Yerli)": {
     "min": 15.0,
-    "max": 60.0,
-    "birim": "Kg."
-  },
-  "Ahududu": {
-    "min": 100.0,
-    "max": 400.0,
+    "max": 75.0,
     "birim": "Kg."
   },
   "Döngel(muşmula)": {
@@ -196,51 +226,61 @@
   },
   "Armut (Santamaria)": {
     "min": 20.0,
-    "max": 90.0,
+    "max": 100.0,
     "birim": "Kg."
   },
   "Erik Papaz": {
-    "min": 20.0,
+    "min": 30.0,
     "max": 80.0,
     "birim": "kg"
   },
   "Karpuz": {
-    "min": 8.0,
-    "max": 18.0,
+    "min": 7.0,
+    "max": 22.0,
     "birim": "kg"
   },
-  "Mandalina": {
-    "min": 55.0,
-    "max": 55.0,
+  "Lahana Bürüksel": {
+    "min": 25.0,
+    "max": 40.0,
     "birim": "Kg."
   },
-  "Portakal Washington": {
-    "min": 40.0,
-    "max": 40.0,
-    "birim": "kg"
-  },
-  "Çağla": {
+  "Fasulye Çalı": {
     "min": 30.0,
     "max": 30.0,
-    "birim": "Kg."
+    "birim": "kg"
   },
-  "Üzüm (Siyah)": {
-    "min": 25.0,
+  "Barbunya": {
+    "min": 11.0,
     "max": 90.0,
     "birim": "Kg."
   },
-  "Hünnap": {
-    "min": 75.0,
-    "max": 75.0,
-    "birim": "kg"
+  "Pazı": {
+    "min": 10.0,
+    "max": 20.0,
+    "birim": "(Demet)"
   },
-  "Hurma Trabzon": {
-    "min": 35.0,
-    "max": 35.0,
+  "Marul A.": {
+    "min": 4.0,
+    "max": 40.0,
+    "birim": "Adet"
+  },
+  "Sarımsak Kuru": {
+    "min": 20.0,
+    "max": 165.0,
     "birim": "Kg."
   },
+  "Domates": {
+    "min": 5.0,
+    "max": 70.0,
+    "birim": "Kg."
+  },
+  "Nane": {
+    "min": 3.0,
+    "max": 25.0,
+    "birim": "Demet"
+  },
   "Kereviz": {
-    "min": 120.0,
+    "min": 20.0,
     "max": 120.0,
     "birim": "Kg."
   },
@@ -249,14 +289,14 @@
     "max": 70.0,
     "birim": "kg"
   },
-  "Semizotu": {
-    "min": 12.0,
-    "max": 39.95,
-    "birim": "(Demet)"
-  },
   "Bakla": {
     "min": 12.0,
     "max": 50.0,
+    "birim": "Kg."
+  },
+  "Soğan (Kırmızı)": {
+    "min": 30.0,
+    "max": 60.0,
     "birim": "Kg."
   },
   "Yaprak Salamura": {
@@ -264,28 +304,38 @@
     "max": 70.0,
     "birim": "Kg."
   },
+  "Fasulye Nazende": {
+    "min": 6.0,
+    "max": 120.0,
+    "birim": "kg"
+  },
   "Lahana Kırmızı": {
-    "min": 10.0,
-    "max": 38.0,
+    "min": 7.0,
+    "max": 40.0,
     "birim": "kg"
   },
   "Biber Yağ": {
     "min": 6.0,
-    "max": 80.0,
+    "max": 75.0,
     "birim": "Kg."
+  },
+  "Polorosso": {
+    "min": 9.0,
+    "max": 10.0,
+    "birim": "Adet"
   },
   "Dereotu": {
     "min": 3.0,
-    "max": 24.95,
+    "max": 25.0,
     "birim": "Demet"
   },
-  "Soğan (Kırmızı)": {
-    "min": 45.0,
-    "max": 70.0,
-    "birim": "Kg."
+  "Kuzukulağı": {
+    "min": 13.0,
+    "max": 24.95,
+    "birim": "(kg)"
   },
   "Kabak Taze": {
-    "min": 6.0,
+    "min": 5.0,
     "max": 50.0,
     "birim": "Kg."
   },
@@ -294,120 +344,125 @@
     "max": 25.0,
     "birim": "demet"
   },
-  "Turp Siyah (kg)": {
-    "min": 15.0,
-    "max": 20.0,
-    "birim": "kg"
-  },
   "Turp Kırmızı": {
     "min": 15.0,
     "max": 15.0,
     "birim": "kg"
   },
+  "Şalgam": {
+    "min": 35.0,
+    "max": 35.0,
+    "birim": "( kg)"
+  },
+  "Patates Eski": {
+    "min": 22.0,
+    "max": 47.0,
+    "birim": "Kg."
+  },
   "Patlıcan Tophane": {
-    "min": 20.0,
+    "min": 23.0,
     "max": 35.0,
     "birim": "Kg."
+  },
+  "Domates Salkım": {
+    "min": 38.0,
+    "max": 55.0,
+    "birim": "KG"
   },
   "Biber Kaliforniya": {
     "min": 50.0,
     "max": 110.0,
     "birim": "kg"
   },
-  "Rozmerin": {
-    "min": 4.0,
-    "max": 110.0,
-    "birim": "kg"
-  },
   "Biber Dolma": {
-    "min": 6.0,
-    "max": 75.0,
+    "min": 10.0,
+    "max": 80.0,
     "birim": "Kg."
   },
-  "Deniz börülcesi": {
+  "Endivyen": {
     "min": 25.0,
     "max": 30.0,
-    "birim": "(demet)"
+    "birim": "(Adet)"
   },
   "Marul K.": {
-    "min": 11.0,
+    "min": 4.0,
     "max": 39.95,
     "birim": "Adet"
   },
-  "Patates Eski": {
-    "min": 22.0,
-    "max": 48.0,
-    "birim": "Kg."
-  },
-  "Havuç": {
-    "min": 5.0,
-    "max": 50.0,
-    "birim": "Kg."
-  },
-  "Turp Fındık": {
-    "min": 15.0,
-    "max": 17.0,
-    "birim": "demet"
-  },
-  "Soğan Taze": {
-    "min": 7.0,
-    "max": 27.0,
-    "birim": "Demet"
+  "Domates Salçalık": {
+    "min": 2.0,
+    "max": 32.0,
+    "birim": "KG"
   },
   "Yer Elması": {
     "min": 15.0,
     "max": 20.0,
     "birim": "Kg."
   },
-  "Domates Kokteyl": {
-    "min": 50.0,
-    "max": 80.0,
-    "birim": "KG"
+  "Havuç": {
+    "min": 5.0,
+    "max": 40.0,
+    "birim": "Kg."
+  },
+  "Turp Fındık": {
+    "min": 10.0,
+    "max": 15.0,
+    "birim": "demet"
+  },
+  "Soğan Taze": {
+    "min": 7.0,
+    "max": 28.0,
+    "birim": "Demet"
+  },
+  "Acur": {
+    "min": 3.5,
+    "max": 35.0,
+    "birim": "(kg)"
   },
   "Mantar": {
-    "min": 50.0,
-    "max": 160.0,
+    "min": 75.0,
+    "max": 200.0,
     "birim": "Kg."
+  },
+  "Salatalık Çıtır": {
+    "min": 4.0,
+    "max": 30.0,
+    "birim": "KG"
   },
   "Domates Beef": {
     "min": 25.0,
     "max": 25.0,
     "birim": "kg"
   },
-  "Fesleğen": {
-    "min": 20.0,
-    "max": 30.0,
-    "birim": "(Demet)"
-  },
   "Bezelye": {
-    "min": 6.0,
-    "max": 6.0,
+    "min": 10.0,
+    "max": 10.0,
     "birim": "Kg."
   },
-  "Bal Kabağı": {
-    "min": 10.0,
-    "max": 80.0,
-    "birim": "Kg"
+  "Lolorosso": {
+    "min": 25.0,
+    "max": 45.0,
+    "birim": "(Adet)"
   },
   "Brokoli": {
-    "min": 20.0,
-    "max": 30.0,
+    "min": 70.0,
+    "max": 90.0,
+    "birim": "Kg."
+  },
+  "Turp Beyaz": {
+    "min": 11.0,
+    "max": 15.0,
     "birim": "Kg."
   },
   "Enginar": {
-    "min": 50.0,
-    "max": 50.0,
+    "min": 35.0,
+    "max": 35.0,
     "birim": "Kg."
   },
   "Roka": {
     "min": 3.0,
     "max": 30.0,
     "birim": "Demet"
-  },
-  "Turp Beyaz": {
-    "min": 11.0,
-    "max": 15.0,
-    "birim": "Kg."
   },
   "Lahana Beyaz": {
     "min": 5.0,
@@ -419,24 +474,29 @@
     "max": 40.0,
     "birim": "Kg."
   },
-  "Pazı": {
-    "min": 10.0,
-    "max": 20.0,
-    "birim": "(Demet)"
-  },
   "Bamya": {
-    "min": 50.0,
+    "min": 25.0,
     "max": 140.0,
     "birim": "Kg."
   },
+  "Semizotu": {
+    "min": 12.0,
+    "max": 40.0,
+    "birim": "(Demet)"
+  },
+  "Soğan (Arpacık)": {
+    "min": 6.0,
+    "max": 20.0,
+    "birim": "Kg."
+  },
   "Salatalık": {
-    "min": 5.0,
-    "max": 25.0,
+    "min": 3.0,
+    "max": 30.0,
     "birim": "Kg."
   },
   "Domates Cherry": {
-    "min": 50.0,
-    "max": 60.0,
+    "min": 20.0,
+    "max": 75.0,
     "birim": "Kg."
   },
   "Böğrülce": {
@@ -448,11 +508,6 @@
     "min": 3.0,
     "max": 20.0,
     "birim": "Demet"
-  },
-  "Soğan (Arpacık)": {
-    "min": 6.0,
-    "max": 20.0,
-    "birim": "Kg."
   },
   "Karnıbahar": {
     "min": 55.0,
@@ -469,6 +524,16 @@
     "max": 39.0,
     "birim": "Kg."
   },
+  "Turp Siyah (kg)": {
+    "min": 15.0,
+    "max": 20.0,
+    "birim": "kg"
+  },
+  "Soğan (Kuru)": {
+    "min": 32.5,
+    "max": 57.0,
+    "birim": "Kg."
+  },
   "Pırasa": {
     "min": 30.0,
     "max": 60.0,
@@ -476,41 +541,31 @@
   },
   "Biber Kıl Sivri": {
     "min": 10.0,
-    "max": 110.0,
+    "max": 120.0,
     "birim": "kg"
   },
-  "Polorosso": {
-    "min": 9.0,
-    "max": 10.0,
-    "birim": "Adet"
-  },
   "Biber Sivri": {
-    "min": 7.0,
+    "min": 9.0,
     "max": 120.0,
     "birim": "Kg."
   },
-  "Kuzukulağı": {
-    "min": 13.0,
-    "max": 23.95,
-    "birim": "(kg)"
-  },
-  "Mısır": {
-    "min": 12.0,
-    "max": 16.0,
-    "birim": "Adet"
-  },
-  "Soğan (Kuru)": {
-    "min": 30.0,
-    "max": 70.0,
-    "birim": "Kg."
-  },
-  "Fasulye Nazende": {
-    "min": 6.0,
-    "max": 100.0,
+  "Rozmerin": {
+    "min": 5.0,
+    "max": 110.0,
     "birim": "kg"
   },
+  "Mısır": {
+    "min": 11.43,
+    "max": 19.0,
+    "birim": "Adet"
+  },
+  "Deniz börülcesi": {
+    "min": 25.0,
+    "max": 30.0,
+    "birim": "(demet)"
+  },
   "Ispanak": {
-    "min": 10.0,
+    "min": 20.0,
     "max": 80.0,
     "birim": "Kg."
   },
@@ -519,165 +574,135 @@
     "max": 22.5,
     "birim": "kg"
   },
-  "Şalgam": {
-    "min": 35.0,
-    "max": 35.0,
-    "birim": "( kg)"
-  },
   "Tere": {
-    "min": 15.0,
+    "min": 13.0,
     "max": 18.0,
     "birim": "Demet"
   },
-  "Pancar": {
-    "min": 20.0,
-    "max": 40.0,
-    "birim": "Kg."
-  },
-  "Biber Üçburun": {
-    "min": 10.0,
-    "max": 65.0,
-    "birim": "kg"
-  },
-  "Endivyen": {
-    "min": 30.0,
-    "max": 30.0,
-    "birim": "(Adet)"
-  },
-  "Biber Çarliston": {
-    "min": 8.0,
-    "max": 100.0,
-    "birim": "Kg."
-  },
-  "Domates Salçalık": {
-    "min": 2.5,
-    "max": 33.0,
-    "birim": "KG"
-  },
-  "Marul G.": {
-    "min": 30.0,
-    "max": 40.0,
-    "birim": "Adet"
-  },
   "Patates Taze": {
-    "min": 28.0,
+    "min": 27.0,
     "max": 45.0,
     "birim": "Kg."
   },
-  "Domates Salkım": {
-    "min": 30.0,
-    "max": 60.0,
-    "birim": "KG"
-  },
-  "Fasulye ayşe kadın": {
-    "min": 60.0,
+  "Pancar": {
+    "min": 15.0,
     "max": 60.0,
     "birim": "Kg."
   },
-  "Acur": {
-    "min": 3.5,
-    "max": 35.0,
-    "birim": "(kg)"
+  "Domates Kokteyl": {
+    "min": 50.0,
+    "max": 80.0,
+    "birim": "KG"
   },
-  "Sarımsak Taze": {
-    "min": 20.0,
-    "max": 20.0,
-    "birim": "Demet"
+  "Biber Üçburun": {
+    "min": 12.0,
+    "max": 75.0,
+    "birim": "kg"
+  },
+  "Biber Çarliston": {
+    "min": 10.0,
+    "max": 90.0,
+    "birim": "Kg."
+  },
+  "Fesleğen": {
+    "min": 10.0,
+    "max": 30.0,
+    "birim": "(Demet)"
+  },
+  "Marul G.": {
+    "min": 17.6,
+    "max": 40.0,
+    "birim": "Adet"
+  },
+  "Bal Kabağı": {
+    "min": 10.0,
+    "max": 80.0,
+    "birim": "Kg"
   },
   "Turp Vezir": {
     "min": 35.0,
     "max": 35.0,
     "birim": "Kg."
   },
-  "Salatalık Çıtır": {
-    "min": 5.0,
+  "Fasulye ayşe kadın": {
+    "min": 30.0,
     "max": 30.0,
-    "birim": "KG"
-  },
-  "Lahana Bürüksel": {
-    "min": 25.0,
-    "max": 40.0,
     "birim": "Kg."
   },
-  "Fasulye Çalı": {
-    "min": 95.0,
-    "max": 95.0,
-    "birim": "kg"
-  },
-  "Lolorosso": {
-    "min": 25.0,
-    "max": 45.0,
-    "birim": "(Adet)"
-  },
-  "Barbunya": {
-    "min": 11.0,
-    "max": 90.0,
-    "birim": "Kg."
-  },
-  "Marul A.": {
-    "min": 4.0,
-    "max": 40.0,
-    "birim": "Adet"
-  },
-  "Sarımsak Kuru": {
+  "Sarımsak Taze": {
     "min": 20.0,
-    "max": 200.0,
-    "birim": "Kg."
-  },
-  "Domates": {
-    "min": 8.0,
-    "max": 60.0,
-    "birim": "Kg."
-  },
-  "Nane": {
-    "min": 3.0,
-    "max": 24.95,
+    "max": 20.0,
     "birim": "Demet"
   },
-  "Lime": {
-    "min": 6.0,
-    "max": 110.0,
-    "birim": "kg"
+  "Hindistan Cevizi": {
+    "min": 58.0,
+    "max": 58.0,
+    "birim": "(Adet)"
+  },
+  "Mango": {
+    "min": 20.0,
+    "max": 100.0,
+    "birim": "Adet"
   },
   "Muz": {
     "min": 570.0,
     "max": 2090.0,
     "birim": "Koli"
   },
+  "Zencefil": {
+    "min": 160.0,
+    "max": 220.0,
+    "birim": "Kg"
+  },
+  "Ananas": {
+    "min": 77.78,
+    "max": 133.35,
+    "birim": "(Adet)"
+  },
+  "Avakado": {
+    "min": 20.0,
+    "max": 65.0,
+    "birim": "adet"
+  },
+  "Lime": {
+    "min": 6.0,
+    "max": 110.0,
+    "birim": "kg"
+  },
   "Pomelo": {
     "min": 35.0,
     "max": 109.32,
     "birim": "Adet"
   },
-  "Ananas": {
-    "min": 25.0,
-    "max": 120.0,
-    "birim": "(Adet)"
+  "Hamsi (Marmara)": {
+    "min": 266.0,
+    "max": 333.0,
+    "birim": "Kg"
   },
-  "Avakado": {
-    "min": 25.0,
-    "max": 70.0,
-    "birim": "adet"
-  },
-  "Mango": {
-    "min": 50.0,
-    "max": 50.0,
-    "birim": "Adet"
-  },
-  "Hindistan Cevizi": {
-    "min": 70.0,
-    "max": 180.0,
-    "birim": "(Adet)"
-  },
-  "Zencefil": {
-    "min": 180.0,
-    "max": 220.0,
+  "Hamsi (Karadeniz)": {
+    "min": 66.0,
+    "max": 133.0,
     "birim": "Kg"
   },
   "İthal Uskumru": {
     "min": 6000.0,
     "max": 6000.0,
     "birim": "Koli"
+  },
+  "Çinekop": {
+    "min": 538.0,
+    "max": 730.0,
+    "birim": "Kg"
+  },
+  "Kefal": {
+    "min": 150.0,
+    "max": 130.0,
+    "birim": "Kg"
+  },
+  "Palamut": {
+    "min": 1100.0,
+    "max": 1200.0,
+    "birim": "Çift"
   },
   "Hamsi Ege": {
     "min": 266.0,
@@ -699,39 +724,9 @@
     "max": 166.0,
     "birim": "Kg"
   },
-  "Hamsi (Marmara)": {
-    "min": 266.0,
-    "max": 333.0,
-    "birim": "Kg"
-  },
-  "Hamsi (Karadeniz)": {
-    "min": 66.0,
-    "max": 133.0,
-    "birim": "Kg"
-  },
-  "Çinekop": {
-    "min": 538.0,
-    "max": 730.0,
-    "birim": "Kg"
-  },
-  "Kefal": {
-    "min": 150.0,
-    "max": 130.0,
-    "birim": "Kg"
-  },
-  "Palamut": {
-    "min": 1100.0,
-    "max": 1200.0,
-    "birim": "Çift"
-  },
   "Çıplak Mezgit": {
     "min": 125.0,
     "max": 166.0,
-    "birim": "Kg"
-  },
-  "Levrek Kültür": {
-    "min": 400.0,
-    "max": 550.0,
     "birim": "Kg"
   },
   "Alabalık": {
@@ -739,24 +734,29 @@
     "max": 150.0,
     "birim": "Kg"
   },
+  "Somon": {
+    "min": 250.0,
+    "max": 350.0,
+    "birim": "Kg"
+  },
   "Çipura Kültür": {
     "min": 350.0,
     "max": 500.0,
     "birim": "Kg"
   },
-  "Somon": {
-    "min": 250.0,
-    "max": 350.0,
+  "Levrek Kültür": {
+    "min": 400.0,
+    "max": 550.0,
+    "birim": "Kg"
+  },
+  "Norveç Somonu": {
+    "min": 475.0,
+    "max": 550.0,
     "birim": "Kg"
   },
   "İthal Kalamar": {
     "min": 2500.0,
     "max": 2500.0,
     "birim": "Koli"
-  },
-  "Norveç Somonu": {
-    "min": 475.0,
-    "max": 550.0,
-    "birim": "Kg"
   }
 }
